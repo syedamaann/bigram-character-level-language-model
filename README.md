@@ -1,5 +1,6 @@
 # Character-Level Bigram Neural Language Model for Sequential Text Prediction
 
+This repository is home to a simple Bigram Language Model implemented in PyTorch, trained on the "Tiny Shakespeare" dataset. The purpose of this model is to demonstrate the fundamental principles of neural language models and the process of generating text using neural networks.
 
 ## Tech Used
 - **Programming Language:** Python 3.x
