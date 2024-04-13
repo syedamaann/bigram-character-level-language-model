@@ -15,7 +15,7 @@ During training, the model outputs logs of train and validation losses at regula
 
 Here is an example of the output after training the model:
 
-![Training Output](training output.png)
+![Training Output](training%20output.png)
 
 ### Architecture
 - **Embedding Layer:** Maps each character to a corresponding logit for the subsequent character.
